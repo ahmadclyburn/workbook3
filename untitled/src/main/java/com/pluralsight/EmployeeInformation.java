@@ -63,3 +63,31 @@ public class EmployeeInformation {
 }
 
 
+
+
+
+//                System.out.println("what information would you like \nID \nHours Worked \nPayrate \ncurrent gross pay");
+//                String userWants = input.nextLine();
+//                if (userWants.equalsIgnoreCase("id")){
+//                    System.out.println(empInfo.getEmployeeId());
+//                }else if(userWants.equalsIgnoreCase("hours worked")){
+//                    System.out.println(empInfo.getHoursWorked());
+//                }else if (userWants.equalsIgnoreCase("payrate")){
+//                    System.out.println(empInfo.getPayRate());
+//                }else if (userWants.equalsIgnoreCase("current gross pay")){
+//                    System.out.println("your gross pay is: "+ grossPay);
+//                }
+
+
+
+
+//                System.out.println("would you like anything else?");
+//                String more = input.nextLine();
+//                if (more.equalsIgnoreCase("yes")){
+//                    continue;
+//                }else if(more.equalsIgnoreCase("no")){
+//                    System.out.println("thank you have a nice day");
+//                    break;
+//                }else{
+//                    System.out.println("invalid input. yes or no?");
+//                }
